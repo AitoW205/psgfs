@@ -1,1 +1,0 @@
-# SlayBot website
