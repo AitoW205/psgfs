@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "/support"
+  to = "https://discord.gg/y2HE3CP"
+  status = 307
+  force = true # COMMENT: ensure that we always redirect
+  headers = {X-From = "DiscordBot-SlayBot"}
+  signed = "API_SIGNATURE_TOKEN"
